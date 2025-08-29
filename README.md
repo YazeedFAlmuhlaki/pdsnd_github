@@ -17,3 +17,8 @@ Make sure you have Python installed. To run the program, use:
 
 ```bash
 python bikeshare_starter.py
+
+## Credits
+- Data provided by [Motivate](https://www.motivateco.com/)
+- Thanks to the Udacity community and resources for guidance
+
