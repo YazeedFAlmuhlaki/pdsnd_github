@@ -15,8 +15,10 @@ This project explores data from the US bikeshare system for three major cities: 
 ## How to Run
 Make sure you have Python installed. To run the program, use:
 
-```bash
+```
 python bikeshare_starter.py
+
+```
 
 ## Credits
 - Data provided by [Motivate](https://www.motivateco.com/)
