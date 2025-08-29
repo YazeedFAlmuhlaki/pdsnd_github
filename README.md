@@ -7,7 +7,7 @@ This project explores data from the US bikeshare system for three major cities: 
 
 ## Files Used
 - `bikeshare_starter.py`: The main Python script used for analyzing bikeshare data.
-- `new_york_city.csv`: Raw data file (excluded from Git via .gitignore).
+- `new_york_city.csv`: Raw data file (excluded from Git via .gitignore). Only New York City data is currently included.
 
 ## How to Run
 Make sure you have Python installed. To run the program, use:
