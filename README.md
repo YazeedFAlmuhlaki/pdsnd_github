@@ -17,7 +17,6 @@ Make sure you have Python installed. To run the program, use:
 
 ```
 python bikeshare_starter.py
-
 ```
 
 ## Credits
